@@ -4,9 +4,11 @@ Tokens are following the same path as CPU clock cycles…from headline metric to
 
 ![Tokenizer](images/header.png)
 
-![Intel 486 CPU](images/image-1.png)
 
 In the 1990s people compared megahertz. Then gigahertz. Then nobody cared anymore. The abstraction layers above the raw compute made clock cycles invisible. Tokens are on the same trajectory.
+
+![Intel 486 CPU](images/image-1.png)
+
 
 ## Key Argument
 
