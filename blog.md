@@ -1,8 +1,10 @@
+![Tokenizer](images/header.png)
+
+
 # The Token is Becoming the New Hidden Compute Primitive
 
 ## Tokens are following the same path as CPU clock cycles…from headline metric to invisible infrastructure.
 
-![Tokenizer](images/header.png)
 
 ![Intel 486 CPU](images/image-1.png)
 
