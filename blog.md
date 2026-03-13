@@ -2,6 +2,8 @@
 
 ## Tokens are following the same path as CPU clock cycles…from headline metric to invisible infrastructure.
 
+![Tokenizer](images/header.png)
+
 ![Intel 486 CPU](images/image-1.png)
 
 In the 1990s people compared megahertz. Then gigahertz.
